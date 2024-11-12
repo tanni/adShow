@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+/* mall icon */
+.jdmall .pageicon{background-color:#e12319;background-image:url(img/icon/jd.png);}
+.m1688mall .pageicon{background-color:#ed5128;background-image:url(img/icon/1688.png);}
+.tbmall .pageicon{background-color:#ee672c;background-image:url(img/icon/taobao.png);}
+.tmall .pageicon{background-color:#da0b06;background-image:url(img/icon/tmall.png);}
+.pddmall .pageicon{background-color:#d14031;background-image:url(img/icon/pinduoduo.png);}
+.suningmall .pageicon{background-color:#ffa602;background-image:url(img/icon/suning.png);}
+.selfmall .pageicon{background-color:#6666da;background-image:url(img/icon/selfmall.png);}
+.hc360mall .pageicon{background-color:#b7353d;background-image:url(img/icon/hc360.png);}
+
+/* media icon */
+.douyin .pageicon{background-color:#000;background-image:url(img/icon/douyin.png);}
+.kuaishou .pageicon{background-color:#fd5a23;background-image:url(img/icon/kuaishou.png);}
+.wxvideo .pageicon{background-color:#e99e53;background-image:url(img/icon/wechatvideo.png);}
+.xiaohongshu .pageicon{background-color:#e81d19;background-image:url(img/icon/xiaohongshu.png);}
+.xiaochengxu .pageicon{background-color:#04a436;background-image:url(img/icon/xiaochengxu.png);}
+.weibo .pageicon{background-color:#d32024;background-image:url(img/icon/weibo.png);}
+.gongzhonghao .pageicon{background-color:#07c05d;background-image:url(img/icon/gongzhonghao.png);}
+.baijiahao .pageicon{background-color:#3856d5;background-image:url(img/icon/baijiahao.png);}
+.toutiao .pageicon{background-color:#fff;background-size:100%;background-image:url(img/icon/toutiao.png);}
+.grid .toutiao .pageicon{background-color:#f04242;background-size:80%;}
+.bilibili .pageicon{background-color:#fb7299;background-image:url(img/icon/bilibili.png);}
+
+.shipinhao .pageicon{background-image:url(img/icon/shipinhao.png); background-color: rgba(253,147,19)}
+.linkedin .pageicon{background-image:url(img/icon/linkedin.png); background-color: rgba(0,123,181)}
+.facebook .pageicon{background-image:url(img/icon/facebook.png); background-color: rgba(60,90,153)}
+.Instagram .pageicon{background-image:url(img/icon/instagram.png); background-color: rgba(241,77,86)}
+.tiktok .pageicon{background-image:url(img/icon/tiktok.png); background-color: rgba(0,0,0)}
+.twitter .pageicon{background-image:url(img/icon/twitter.png); background-color: rgba(25,169,226)}
+
+/* about icon */
+.website .pageicon{background-color:#068af0;background-image:url(img/icon/website.png);}
+.cwechat .pageicon{background-color:#0082ef;background-image:url(img/icon/cwechat.png);}
+.qcc .pageicon{background-color:#0082ef;background-image:url(img/icon/qcc.png);}
+.location .pageicon{background-color:#0082ef;background-image:url(img/icon/location.png);}
+.tel .pageicon{background-color:#0082ef;background-image:url(img/icon/tel.png);}
+.mail .pageicon{background-color:#0082ef;background-image:url(img/icon/mail.png);}
+.mingpian .pageicon{background-color:#0082ef;background-image:url(img/icon/mingpian.png);}
