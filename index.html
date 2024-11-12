@@ -191,8 +191,7 @@
         <p style="font-size:24px"><span style="color:#5288d8">在线聚合页</span>入口</p>
     </div> <!-- tips end-->
     <script type="text/javascript" src="assets/js/frontend/al.js"></script>
-    <script
-        type="text/javascript">  
+    <script  type="text/javascript">  
         var did = 5787;
         $('.sharebox').click(function () { $('.sharewin,.overlay').show(); $('.sharewin').addClass('fadelogIn'); $('.sharebox').hide(); $(document).one("click", function () { $('.sharewin,.overlay').fadeOut(); $('.sharebox').show(); $('.sharebox').addClass('fadelogIn'); }); event.stopPropagation() }); $('.sharewin').click(function (event) { event.stopPropagation() }) 
         $('.closewin').click(function () { $('.sharewin,.overlay').fadeOut(); $('.sharebox').show(); $('.sharebox').addClass('fadelogIn'); });     /**   * 将文本内容复制到剪切板   * @param str 复制内容   */  function copyText(str) { $('#copy').text(str).show(); var ele = document.getElementById("copy"); ele.select(); document.execCommand('copy', false, null); $('#copy').hide(); } function sharepage() { copyText($('#copy').val()); $('.xtips,.overlay').show(); $('.xtips,.overlay').delay(1000).fadeOut(1000); $('.sharebox').addClass('fadelogIn').show(); $('.sharewin').hide(); } $(document).ready(function () { addScript('index', '0'); }); 
